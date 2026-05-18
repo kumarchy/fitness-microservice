@@ -14,6 +14,7 @@ This project is a real-world distributed system that simulates an enterprise-gra
 - System is fully scalable using Eureka + API Gateway
 
 ### High-Level System Architecture
+![image](https://github.com/kumarchy/Food-Delivery-App/blob/main/Screenshot%202024-11-02%20214051.png)
 
 ### System Design
 
