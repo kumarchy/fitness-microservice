@@ -171,6 +171,7 @@ http://localhost:5050
 ```
 ### Login
 Email: admin@admin.com
+
 Password: admin123
 
 ### Configuration Strategy
