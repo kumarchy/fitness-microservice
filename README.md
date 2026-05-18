@@ -173,7 +173,7 @@ http://localhost:5050
 ### Login
 Email: admin@admin.com
 
-Password: admin123
+Password: admin
 
 ### Configuration Strategy
 - All configs stored in Config Server
