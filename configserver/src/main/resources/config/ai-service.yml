@@ -29,7 +29,7 @@ eureka:
 
 gemini:
   api:
-    url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=
+    url: 
 #    ${GEMINI_API_URL}
-    key: AIzaSyCeEMOTesQ0bu2Brh4t7N3ZRkagKLQjWWc
+    key: 
 #    ${GEMINI_API_KEY}
